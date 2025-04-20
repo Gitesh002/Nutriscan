@@ -1,6 +1,4 @@
-Sure, here’s a professional and comprehensive `README.md` file for your GitHub repository based on your project report:
 
----
 
 # NutriScan 🍎  
 **ML-Driven Nutritional Analysis System Using OCR**
@@ -78,11 +76,6 @@ NutriScan/
 - Allergen and ingredient safety warnings
 
 ## 👥 Team
-- Gitesh Anand (Davo)  
+- Gitesh Anand  
 - Lakshay Chaudhary  
 - Prafful Bisht  
-**Guide:** Mr. Kuwar Pratap Singh
-
----
-
-Let me know if you want me to convert this into a downloadable `README.md` file or customize it for a Streamlit sharing link.
